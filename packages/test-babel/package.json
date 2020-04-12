@@ -1,0 +1,9 @@
+{
+  "name": "test-babel",
+  "scripts": {
+    "build": "father build"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  }
+}

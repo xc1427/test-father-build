@@ -1,0 +1,9 @@
+{
+  "name": "test-rollup",
+  "scripts": {
+    "build": "father build"
+  },
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
